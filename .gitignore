@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pkl
+*.npz
+known_faces/
+*.annotated.jpg
+.env
+.vscode/
