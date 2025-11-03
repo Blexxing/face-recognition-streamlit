@@ -3,3 +3,4 @@ face_recognition==1.3.0
 opencv-python
 numpy
 Pillow
+dlib==19.24.0
